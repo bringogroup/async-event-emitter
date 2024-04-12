@@ -1,5 +1,7 @@
 {
     "name": "bringo/async-event-emitter",
+    "type": "library",
+    "license": "MIT",
     "version": "1.0.0",
     "description": "Async Event Emitter",
     "minimum-stability": "stable",
